@@ -12,4 +12,8 @@
 - 📫 How to reach me: [Manyagupta2210@gmail.com](mailto: Manyagupta2210@gmail.com)
 - ⚡ Fun fact:I love to read novels and self-help books.
 
+- ### 📬Connect with me:
+- [![LinkedIn](https://img.shields.io/badge/LinkedinIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manya-gupta-b51951217/)
+- 
+
 
