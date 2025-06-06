@@ -1,6 +1,6 @@
-<h1 align="center">##Hey there 👋, I'm Manya2210</h1>
+<h1 align="center">Hey there 👋, I'm Manya2210</h1>
 
-<p align="center">### I'm a passionate frontend developer who loves to create beautiful and responsive web applications.</p>
+<p align="center">I'm a passionate frontend developer who loves to create beautiful and responsive web applications.</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manya2210)
 ---
