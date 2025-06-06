@@ -1,9 +1,6 @@
 ## Hi there 👋 I'm Manya2210
 
-<!--
-**Manya2210/Manya2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm a passionate frontend developer who loves to create beautiful and responsive web applications.
+# I'm a passionate frontend developer who loves to create beautiful and responsive web applications.
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning REACT and Node.js
