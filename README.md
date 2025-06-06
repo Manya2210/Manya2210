@@ -14,6 +14,7 @@
 
 - ### 📬Connect with me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedinIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manya-gupta-b51951217/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://Manya2210.github.io)
 - 
 
 
