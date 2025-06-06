@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Manya2210)
 ---
 
-- 🔭 I’m currently working on [my portfolio](#)
+- 🔭 I’m currently working on [my portfolio](https://portfolio-frontend-nine-lyart.vercel.app/)
 - 🌱 I’m currently learning **REACT and Node.js**
 - 💻 All my projects are available at [Manya2210.github.io](https://Manya2210.github.io)
 - 💬 Ask me about **Javascript ,React, Mysql and Tailwind CSS**
