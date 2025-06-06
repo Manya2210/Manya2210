@@ -13,8 +13,26 @@
 - ⚡ Fun fact:I love to read novels and self-help books.
 
 - ### 📬Connect with me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedinIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manya-gupta-b51951217/)
+- [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manya-gupta-b51951217/)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://Manya2210.github.io)
-- 
 
+- ---
+
+  ### 🔧Languages and Tools:
+  <p>
+    <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/MySql/MySql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/NodeJs/NodeJs-plain.svg" width="40"/>
+</p>
+
+---
+
+
+  </p>
 
