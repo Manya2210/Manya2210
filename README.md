@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [my portfolio](https://portfolio-frontend-nine-lyart.vercel.app/)
 - 🌱 I’m currently learning **REACT and Node.js**
-- 💻 All my projects are available at [Manya2210.github.io](https://portfolio-frontend-nine-lyart.vercel.app/)
+- 💻 All my projects are available at [https://portfolio-frontend-nine-lyart.vercel.app/](https://portfolio-frontend-nine-lyart.vercel.app/)
 - 💬 Ask me about **Javascript ,React, Mysql and Tailwind CSS**
-- 📫 How to reach me: [Manyagupta2210@gmail.com](mailto: Manyagupta2210@gmail.com)
+- 📫 How to reach me: [Manyagupta2210@gmail.com]
 - ⚡ Fun fact:I love to read novels and self-help books.
 
 - ### 📬Connect with me:
